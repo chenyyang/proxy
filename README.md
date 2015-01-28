@@ -1,6 +1,6 @@
 # proxy
 
-本项目代码来源：
+本项目参考代码：
 
   http代理的原地址：https://github.com/apn-proxy/apn-proxy
 
